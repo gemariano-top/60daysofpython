@@ -1,3 +1,3 @@
 # 60 dias de programaçã em python
--[x] Dia 1 - Olá mundo em python
--[] Dia 2
+-[X] Dia 1 - Olá mundo em python
+-[X] Dia 2 - Soma de dois números
