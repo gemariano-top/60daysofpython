@@ -11,3 +11,4 @@
 -[x] Dia 10 - Gerador de senhas
 -[x] Dia 11 - Lista ordenada
 -[x] Dia 12 - Busca linear
+-[x] Dia 13 - Fatorial
