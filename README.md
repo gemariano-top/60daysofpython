@@ -5,3 +5,9 @@
 -[x] Dia 4 - Laco de repeticao
 -[x] Dia 5 - Quadrado de um numero
 -[x] Dia 6 - Lista de frutas
+-[x] Dia 7 - Dicionario em python
+-[x] Dia 8 - Check idade
+-[x] Dia 9 - Contador
+-[x] Dia 10 - Gerador de senhas
+-[x] Dia 11 - Lista ordenada
+-[x] Dia 12 - Busca linear
