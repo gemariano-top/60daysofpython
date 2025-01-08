@@ -12,3 +12,4 @@
 -[x] Dia 11 - Lista ordenada
 -[x] Dia 12 - Busca linear
 -[x] Dia 13 - Fatorial
+-[x] Dia 14 - Verificar numero primo
