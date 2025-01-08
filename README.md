@@ -14,4 +14,6 @@
 -[x] Dia 13 - Fatorial
 -[x] Dia 14 - Verificar numero primo
 -[x] Dia 15 - Fibonacci
+-[x] Dia 16 - Verificador de anagrama
+
 
