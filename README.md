@@ -17,5 +17,9 @@
 - [x] Dia 16 - Verificador de anagrama
 - [x] Dia 17 - Verificador de palindromo
 - [x] Dia 18 - Contar palavras
+- [x] Dia 19 - Calcula media notas
+- [x] Dia 20 - Matriz transposta
+- [x] Dia 21 - Conversor de moeda
+- [x] Dia 22 - Calcular imc 
 
 
