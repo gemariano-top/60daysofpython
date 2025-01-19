@@ -22,9 +22,9 @@
  - [x] Dia 21 - Conversor de moedas dolar para real
  - [x] Dia 22 - Calculadora de IMC
  - [x] Dia 23 - Jogo da adivinhacao em Python
- - [] Dia 24 - Criamos uma tabuado em Python
- - [] Dia 25 - Criamos um codigo que gera 10 numeros aleatorios
- - [] Dia 26 - Criando uma funcao para escrever em .txt
+ - [x] Dia 24 - Criamos uma tabuado em Python
+ - [x] Dia 25 - Criamos um codigo que gera 10 numeros aleatorios
+ - [x] Dia 26 - Criando uma funcao para escrever em .txt
  - [] Dia 27 - Conversor de temperatura
  - [] Dia 28 - Cronometro em Python
  - [] Dia 29 - Gerador de data e hora atual
