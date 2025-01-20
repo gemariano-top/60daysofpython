@@ -25,10 +25,10 @@
  - [x] Dia 24 - Criamos uma tabuado em Python
  - [x] Dia 25 - Criamos um codigo que gera 10 numeros aleatorios
  - [x] Dia 26 - Criando uma funcao para escrever em .txt
- - [] Dia 27 - Conversor de temperatura
- - [] Dia 28 - Cronometro em Python
- - [] Dia 29 - Gerador de data e hora atual
- - [] Dia 30 - Cronometro de 10 segundos
+ - [x] Dia 27 - Conversor de temperatura
+ - [x] Dia 28 - Cronometro em Python
+ - [x] Dia 29 - Gerador de data e hora atual
+ - [x] Dia 30 - Cronometro de 10 segundos
  - [] Dia 31 - Calculo de raiz quadrada
 
 
